@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../codeit"
+	},
+	{
+		"path": "../../codemate"
+	}
+],
+  "settings": {}
+}
